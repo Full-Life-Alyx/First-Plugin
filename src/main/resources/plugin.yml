@@ -1,0 +1,14 @@
+name: ManhuntSnowballs
+version: '${project.version}'
+main: me.fuzy_boi.manhuntsnowballs.Main
+api-version: 1.17
+authors: [ fuzy_boi ]
+description: Snowballs are tweaked!
+website: https://discord.gg/D7CKW6Per9 
+#commands:
+#  givesnowball:
+#    description: gives snowball
+#    usage: /<command>
+#  givebook:
+#    description: gives a cool book
+#    usage: /<command>
